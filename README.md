@@ -1,2 +1,2 @@
 # JavaScript
- Curso de JavaScript - B7Web
+ Curso de JavaScript básico - B7Web
