@@ -29,6 +29,4 @@ function clicou(){
         input.setAttribute('type', 'password');
         botao.innerText = "Mostrar senha";
     };
-
-
 };
