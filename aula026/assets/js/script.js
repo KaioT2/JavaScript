@@ -6,7 +6,7 @@ function clicou(){
 
  /* //Pegar atributos (getAttribute):
 
-        console.log(input.getAttribute('placeholder'));
+        console.log(input.getAttribute('placeholder'))
 
     //Saber e o elemento tem determinado atributo (hasAttribute):
 
